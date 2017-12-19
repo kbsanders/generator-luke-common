@@ -147,7 +147,7 @@ Vagrant.configure("2") do |config|
 	# ---------------------
 	# Disable automatic key-pair replacement for Vagrant insecure key.
 	# By convention, most Vagrant boxes are shipped with an initial user, "vagrant".
-	# Likewise, the vagrant user usually comes pre-loaded with a publicaly available
+	# Likewise, the vagrant user usually comes pre-loaded with a publicly available
 	# default key pair.  However, recently Vagrant added logic to automatically
 	# replace this key by default.  We dislike that idea, so we prevent it.
 
