@@ -158,7 +158,7 @@
 			"error",
 			"tab",
 			{
-				"SwitchCase": "warn"
+				"SwitchCase": 1
 			}
 		],
 		"jsx-quotes": "error",
